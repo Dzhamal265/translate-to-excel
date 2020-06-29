@@ -1,0 +1,163 @@
+,he,en,ru,keys
+0,לקבל,Accept,Принять,Accept
+1,פעיל,Active,Активные,ActiveEvents
+2,מקום אידיאלי לארגון חגים,An ideal venue for organizing holidays,Идеальная площадка для организации праздников,An ideal venue for organizing holidays
+3,בחזרה לרשימה,Back to list,Назад к списку,Back to list
+4,בחר תמונה,Choose an image,ВЫберите изображение,Choose an image
+5,ניהול אירועים,Event Management,Управление мероприятиями,EventManagement
+6,FAQ,FAQ,FAQ,FAQ
+7,הושלם,Finished,Завершенные,FinishedEvents
+8,חברים,Members,Участники,Members
+9,פרטים נוספים,More details,Подробнее,More details
+10,עלוני חדשות,Newsletters,Рассылки,Newsletters
+11,ארגן אירועים,Organize events,Организовывай мероприятия,OrganizeEvents
+12,דחה,Reject,Отклонить,Reject
+13,כרטיסים ששולמו בהצלחה!,Tickets successfully purchased!,Билеты успешно оплачены!,TicketsSuccessfullyPurchased
+14,אנחנו קרובים מכפי שנראה,We are closer than it seems,Мы всё ближе чем кажется,WeAreCloserThanItSeems
+15,אורחים בברכה,Welcome guests,Принимай гостей,WelcomeGuests
+16,על עצמי,About me,О себе,aboutMe
+17,עלינו,About us,О нас,aboutUs
+18,את כל,All,Все,all
+19,כל האירועים,All events,Все события,allEvents
+20,אימות,Auth,Аутентификация,auth
+21,חזור,Back,Назад,back
+22,חזרה לאירוע,Back to event,Назад к событию,backToEvent
+23,חזרה לעיקרית,Back to main,Назад на главной,backToMain
+24,קישור שידור,Broadcast Link,Ссылка на трансляцию,bl
+25,קנה,Buy,Купить,buy
+26,לקנות כרטיסים,Buy a tickets,Купить билеты,buyTicket
+27,בטל,Cancel,Отмена,cancel
+28,קטגוריות,Categories,Категории,categories
+29,קטגוריה,Category,Категория,category
+30,בודק את זמינות הכרטיסים ...,Checking the availability of tickets...,Проверяем наличие билетов...,checkingTicketsExist
+31,בחר תאריך,Choose a date,Выберите дату,chooseDate
+32,בחר מחיר,Choose a price,Выберите цену,choosePrice
+33,בחר זמן,Choose a time,Выберите время,chooseTime
+34,בחר קובץ להעלאה.,Select file to upload,Выберите файл для загрузки,choseFile
+35,בחר קבצים להעלאה,Select files to upload,Выберите файлы для загрузки,choseFiles
+36,החברה,Company,Компания,company
+37,מדיניות,Policy,Политика,conditions
+38,סודיות,Сonfidentiality,Конфиденциальность,confidencials
+39,איש קשר,Contact,Связаться,contactWithOwner
+40,אנשי קשר,Contacts,Контакты,contacts
+41,ניהול אירועים,Events Control,Управление мероприятиями,controlEvents
+42,צור,Create,Создать,create
+43,צור אירוע,Create event,Создать событие,createEvent
+44,שקל,USD,руб,currency
+45,מטבע (אם שילם),Currency (if paid),Валюта (если платно),currencyIfPaid
+46,מטבע,Currency,Валюта,currencyWord
+47,התאריך,Date,Дата,date
+48,תאריך ושעה,Date and time,Дата и время,dateAndTime
+49,תיאור מפורט,Detail description,Детальное описание,detDescription
+50,משך (בתוך דקות),Duration (in minutes),Длительность (в минутах),duration
+51,ערוך אירוע,Edit event,Редактировать событие,editEvent
+52,ערוך פרופיל,Edit profile,Редактировать профиль,editProfile
+53,אימייל,Email,Email,email
+54,כבר קיים משתמש עם דואר כזה.,User with this email already exists,Пользователь с таким email уже существует,emailExist
+55,תאריך סיום,End date (can be blank),Дата завершения,endDate
+56,כרטיס כניסה,Entrance ticket,Входной билет,entryTicket
+57,ערב אחרי 17:00,Evening after 17:00,Вечер после 17:00,eveningAfterSeventeen
+58,לקנות כרטיסים,Buy a ticket,Время начала,event
+59,מֶשֶׁך,Detailed information about the event was sent to you by mail.,Вы успешно зарегистрировались на мероприятие.,eventCreation
+60,מידע מפורט על האירוע נשלח אליך בדואר.,Duration,Дата завершения,eventEditing
+61,נרשמת בהצלחה לאירוע.,End date,Дата начала,eventLink
+62,שעת התחלה,Start date,Купить билеты,eventPrice
+63,תאריך ההתחלה,Start time,Подробная информация о проведении мероприятия отправлена Вам на почту.,eventsNow
+64,תאריך סיום,You have successfully registered for the event.,Продолжительность,everyLinkOnNewLine
+65,יצירת אירועים,Event creation,Создание события,findUs
+66,עריכת אירועים,Event Editing,Редактирование события,finished
+67,קישור לאירוע,Event link,Ссылка события,firstName
+68,מחיר לאירוע,Event price,Цена мероприятия,forPathners
+69,אירועים עכשיו,Events now,События сейчас,forYou
+70,כל קישור בשורה חדשה,Each link on a new line,Каждая ссылка на новой строке,free
+71,מצא אותנו,Find us,Найти нас,from
+72,הושלם,Finished,Завершено,gallery
+73,שם,First name,Имя,help
+74,לשותפים,For partners,Партнерам,information
+75,בשבילך,For you,Для вас,landing
+76,בחינם,Free,Бесплатно,lang
+77,מ,From,от,lastName
+78,גלריה,Gallery,Внутренняя галерея мероприятия,linkWoB
+79,עזרה,Help,Помощь,listOfLinkWoB
+80,מידע,Information,Информация,listOfLinks
+81,ארגן חופשה חלומית - בחרו את אנשי המקצוע הטובים ביותר מכל מקום בעולם.,"Become a part of an event of any scale. Choose an event, participate and find like-minded people around the world.","Zuzan - это удобная платформа мероприятий, которая сделает вашу жизнь насыщеннее.",live
+82,זוזן היא פלטפורמת אירועים נוחה שתעשה את חייך עשירים יותר.,Celebrate life every day with Zuzan!,Вы можете быстро и без лишних затрат найти профессионалов и организовать мероприятие любого формата в любой точке мира или создать онлайн событие не выходя из дома и привлечь свою аудиторию.,login
+83,חוויות חדשות בכל יום!,Find an event,Каждый день - праздник с Zuzan!,logout
+84,"חיברנו את מיטב המארגנים מכל העולם באתר אחד, כך שתוכלו להגיע בנוחות ובמהירות לרגשות חדשים, להשיג מיומנויות מועילות ולמצוא חברים חדשים.",Find an event now,"Мы соединили на одной площадке лучших организаторов со всего мира, чтобы вы смогли удобно и быстро получить новые эмоции, обрести полезные навыки и найти новых друзей.",mainPicPreview
+85,כל יום הוא חג עם זוזאן!,Manage a dream holiday - choose the best professionals from anywhere in the world.,Найти событие,makeYourEventWithZuzan
+86,"להיות חלק מאירוע בכל קנה מידה. בחר אירוע, השתתף ומצא אנשים בעלי אופקים דומים ברחבי העולם.",New experiences day by day!,Найти событие сейчас,manyLinkDescr
+87,מצא אירוע,Want to create your own event?,Новые впечатления каждый день!,manyLinks
+88,מצא אירוע עכשיו,"We connected the best proffesionals from all over the world on one place so that you can conveniently and quickly get new emotions, gain useful skills and find new friends all around the world.",Организуйте праздник мечты - выберите лучших профессионалов из любой точки мира.,morningAfterTwelve
+89,רוצים ליצור אירוע משלכם?,You can quickly and without extra costs find professionals and organize an event of any format anywhere in the world or create an online event without leaving your home and attract your audience.,"Станьте частью события любого масштаба. Выбирайте мероприятие, участвуйте и находите единомышленников по всему миру.",morningUntilTwelve
+90,תוכלו למצוא במהירות וללא עלויות נוספות למצוא אנשי מקצוע ולארגן אירוע בכל פורמט בכל מקום בעולם או ליצור אירוע מקוון מבלי לצאת מהבית ולמשוך את הקהל שלכם.,Zuzan is a convenient event platform that can make your life more colourful.,Хотите создать свое событие?,moveFileHere
+91,עברית(HE),English(EN),Русский(RU),myBookings
+92,שם משפחה,Last name,Фамилия,myEvents
+93,קישור לסמינר מקוון או לשידור,Link to webinar or broadcast,Ссылка на вебинар или трансляцию,myWebinar
+94,רשימת קישורי סמינר מקוון או שידור,List of links to a webinar or broadcast,Список ссылок на вебинар или трансляцию,nearestEvents
+95,"רשימת קישורים, כל אחד בשורה חדשה","List of links, one per line","Список ссылок, каждая на новой строке",noBookEvent
+96,לחיות,Live,Live,noEventByFilter
+97,להיכנס,Sign In,Войти,noInfo
+98,להתנתק,Logout,Выйти,noPhotosInGallery
+99,תמונת בסיס (תצוגה מקדימה),Main picture (preview),Обложка,noSuchPage
+100,צור את האירוע שלך עם זוזן,Create your event with Zuzan,Создай свое событие вместе с Zuzan,noTickets
+101,ארגון שידור / וובינר בפלטפורמה אחרת עם קישורים אישיים לכל משתתף.,To organize a broadcast / webinar on another platform with personal links for each participant,Организация трансляции / вебинара на другой платформе с персональными ссылками для каждого участника.,notFound
+102,קישורים רבים,Many links,Много ссылок,now
+103,בוקר אחרי 12:00,Morning after 12:00,Утро после 12:00,ok
+104,בוקר עד 12:00,Morning until 12:00,Утро до 12:00,onThisWeek
+105,העבר קבצים לכאן,Move the file here,Перенесите файлы сюда,online
+106,המנויים שלי,My bookings,Мои подписки,opened
+107,האירועים שלי,My events,Мои события,organizingEvent
+108,הסמינר שלי,My Webinar,Мой вебинар,owner
+109,אירועים קרובים,Upcoming events,Ближайшие события,pageProc
+110,אין אירועים הוזמנו,No booked events...,Нет забронированных мероприятий,participantLimit
+111,אין אירועים למסננים המבוקשים,There are no events for the specified filters.,Нет события по запрашиваемым фильтрам,passowordForLink
+112,אין מידע,No information,Нет информации,payments
+113,"סליחה, לא הוספת תמונות לגלריה.",Unfortunately you did not add photos to the gallery.,"К сожалению, вы не добавили фотографии в галерею.",phone
+114,אין דף כזה,No such page,Нет такой страницы,price
+115,אין כרטיסים,No tickets,Нет билетов,priceFree
+116,"404, אין עמוד כזה","404, There is no such page","404, нет такой страницы",privateEvent
+117,עכשיו,Now,Сейчас,profession
+118,בחר,Select,Выбрать,pwd
+119,השבוע,This week,На этой неделе,reg
+120,באינטרנט,Online,Онлайн,save
+121,פתוח,Opened,Открыто,search
+122,מארגנים אירוע?,Organizing an event ?,Организовываешь мероприятие?,searchEvent
+123,בעלים,Owner,Владелец,searchingEvent
+124,"שגיאת עיבוד דפים, אנו כבר יודעים עליה ונתקן אותה בקרוב!","Page processing error, we already know about it and will fix it soon!","Ошибка обработки страницы, мы уже знаем о ней и скоро исправим!",shortDescription
+125,מגבלת המשתתפים (0 = ללא הגבלה),Participant Limit (0 = No limit),Лимит участников (0 = Без ограничений),signUp
+126,סיסמא להזנת הקישור (לא חובה),Password to enter the link (optional),Пароль для входа по ссылке (не обязательно),siteRules
+127,התשלום שלך בוטל.,Your payment succeeded,Ваш платеж успешно завершен,startDate
+128,התשלום שלך הושלם בהצלחה,Your payment was canceled,Ваша оплата была отменена,started
+129,טלפון,Phone,Телефон,status
+130,מחיר,Price,Цена,success
+131,מחיר (0 = חינם),Price (0 = Free),Цена (0 = Бесплатно),tickets
+132,אירוע פרטי,Private Event,Приватное событие,time
+133,מקצוע,Profession,Профессия,title
+134,סיסמה,Password,Пароль,toProfile
+135,הרשמה,Registration,Регистрация,type
+136,להציל,Save,Сохранить,uploadPhoto
+137,לחפש,Search,Искать,user
+138,אירוע חיפוש,Search event,Искать событие,writeAboutYou
+139,מחפש אירוע,Looking for an event,Ищешь мероприятие,wrongEmailOrPwd
+140,תיאור קצר,Short description,Краткое описание,yourEmail
+141,הירשם,Sign Up,Зарегистрироваться,yourLink
+142,כללי האתר,Site rules,Правила сайта,zuzanDescr
+143,תאריך התחלה (יכול להיות ריק),Start date,Дата начала (может быть пустым),zuzanKrichalka
+144,התחיל,Started,Стартовало,
+145,סטטוס,Status,Статус,
+146,בהצלחה,Success,Успешно,
+147,כרטיסים,Tickets,Билеты,
+148,זמן,Time,Время,
+149,כותרת,Title,Название,
+150,בפרופיל,To profile,В профиль,
+151,סוג,Type,Тип,
+152,להעלות תמונה,Upload a photo,Загрузить фото,
+153,שם,First Name,Имя,
+154,שם מלא,Full Name,ФИО,
+155,שם משפחה,Last Name,Фамилия,
+156,כתוב סיפור קצר על עצמך,Write a short story about yourself,Напишите краткий рассказ о себе,
+157,"דוא""ל או סיסמה שגויים",Invalid email or password.,Неверный email или пароль,
+158,האימייל שלך,Your email,Ваш e-mail,
+159,הקישור שלך,Your link,Ваша ссылка,
+160,זוזן הוא צוות צעיר ושאפתן המפתח את מעצב האירועים באתר www.zuzan.com. המשימה שלנו היא להנגיש את ארגון כל אירוע בכל מקום בעולם. עבור המשתמשים הערך של מעצב זוזן הוא היכולת להרים מגוון רחב של אמנים לחופשתם או לפגישתם באותו אתר.,"Zuzan is a young and ambitious team developing Event Designer at www.zuzan.com. Our mission is to make the organization of any event anywhere in the world accessible to everyone. For users, the value of the Zuzan Designer is the ability to pick up a wide variety of artists for their holiday or meeting on the same site.","Zuzan – молодая и амбициозная команда, развивающая Конструктор мероприятий на сайте www.zuzan.com. Наша миссия - сделать организацию любого события в любой точке мира доступной каждому человеку.  Для пользователей ценность Конструктора Zuzan заключается в возможности подобрать множество разнообразных исполнителей для своего праздника или встречи в рамках одного сайта.",
+161,"© 2018 - 2020 ООО ""Глобальные праздники"" - קח את המיטב מהחיים",",© 2018 - 2020 Zuzan Global Solutions, Inc. - take the best from life","© 2018 - 2020 ООО ""Глобальные праздники"" - бери от жизни лучшее",
